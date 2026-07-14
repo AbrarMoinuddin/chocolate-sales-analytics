@@ -25,14 +25,13 @@ interactivity features including bookmarks and field parameters.
 - 🗺️ Slicers for Category and Geography filtering
 
 ## Dashboard Preview
-![Dashboard](chocolate sales screenshot.jpeg)
-(chocolate sales screenshot.jpeg)
+![Dashboard](chocolate-sales-screenshot.jpeg)
 
 
 ## How to Run
-1. Download `dataset/chocolate_sales.csv`
-2. Open `chocolate_dashboard.pbix` in Power BI Desktop
-3. Refresh data source if prompted
+1. Download `dataset/chocolate-sales-data.xlsx`
+2. Open `velvet-cocoa-sales-report` in Power BI Desktop
+3. Refresh the data source if prompted
 
 ## Created By
 **Abrar Moinuddin Mohammed**
