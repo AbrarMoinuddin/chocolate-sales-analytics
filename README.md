@@ -26,7 +26,7 @@ interactivity features including bookmarks and field parameters.
 
 ## Dashboard Preview
 ![Dashboard](chocolate sales screenshot.jpeg)
-
+chocolate sales screenshot.jpeg
 
 
 ## How to Run
