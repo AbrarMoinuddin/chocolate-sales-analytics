@@ -25,7 +25,8 @@ interactivity features including bookmarks and field parameters.
 - 🗺️ Slicers for Category and Geography filtering
 
 ## Dashboard Preview
-![Dashboard](screenshot.png)
+![Dashboard](chocolate sales screenshot.jpeg)
+
 
 
 ## How to Run
